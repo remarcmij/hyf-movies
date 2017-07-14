@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server movies.json"
+    "start": "json-server --watch movies.json"
   },
   "author": "",
   "license": "ISC",

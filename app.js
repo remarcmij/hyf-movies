@@ -1,27 +1,19 @@
-(function () {
+'use strict';
+const fs = require('fs');
 
-  function loadMovies(cb) {
-    //This function keeps track of changes to the xhr request
-    function processRequest() {
-      if (xhr.readyState === 4) {
-        cb(JSON.parse(xhr.response));
-      }
+function loadMovies(cb) {
+  fs.readFile('./movies.json', 'utf-8', function(err, data) {
+    if (err) {
+      console.error('There was an error reading the data: ' + err.message);
+      return null;
     }
+    const movies = JSON.parse(data);
+    cb(movies);
+  });
+}
 
-    const requestURL = 'http://localhost:3000/movies';
-    const xhr = new XMLHttpRequest();
+function handleMovies(movies) {
+  console.log(movies);
+}
 
-    //Build an XHR request and then send it.
-    //Read this for more info: https://www.kirupa.com/html5/making_http_requests_js.htm
-    xhr.open('GET', requestURL, true);
-    xhr.send();
-    xhr.onreadystatechange = processRequest;
-  }
-
-  function callback(movies) {
-    // add code here create HTML from movie data
-  }
-
-  loadMovies(callback);
-
-})();
+loadMovies(handleMovies);
