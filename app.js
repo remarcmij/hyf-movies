@@ -19,14 +19,7 @@
   }
 
   function callback(movies) {
-    // const ulElem = document.getElementById('movies');
-    // for (const movie of movies) {
-    //   console.log(movie);
-    //   const liElem = document.createElement('li');
-    //   const textElem = document.createTextNode(movie.Title);
-    //   liElem.appendChild(textElem);
-    //   ulElem.appendChild(liElem);
-    // }
+    // add code here create HTML from movie data
   }
 
   loadMovies(callback);
