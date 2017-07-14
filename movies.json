@@ -1,0 +1,123 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "Title": "Planet of the Apes",
+      "Year": "2001",
+      "Rated": "PG-13",
+      "Released": "27 Jul 2001",
+      "Runtime": "119 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Tim Burton",
+      "Writer": "Pierre Boulle (novel), William Broyles Jr. (screenplay), Lawrence Konner (screenplay), Mark Rosenthal (screenplay)",
+      "Actors": "Mark Wahlberg, Tim Roth, Helena Bonham Carter, Michael Clarke Duncan",
+      "Plot": "An Air Force astronaut crash lands on a mysterious planet where evolved, talking apes dominate a race of primitive humans.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 BAFTA Film Awards. Another 10 wins & 26 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2RlMDhlY2MtMjQ1Zi00NzI5LTgxOTgtZjliNWMzYTY3NWZkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "45%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
+        }
+      ],
+      "Metascore": "50",
+      "imdbRating": "5.7",
+      "imdbVotes": "185,744",
+      "imdbID": "tt0133152",
+      "Type": "movie",
+      "DVD": "20 Nov 2001",
+      "BoxOffice": "$178,094,583",
+      "Production": "20th Century Fox",
+      "Website": "http://www.planetoftheapes.com",
+      "Response": "True"
+    },
+    {
+      "id": 2,
+      "Title": "2001: A Space Odyssey",
+      "Year": "1968",
+      "Rated": "G",
+      "Released": "12 May 1968",
+      "Runtime": "149 min",
+      "Genre": "Adventure, Sci-Fi",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stanley Kubrick (screenplay), Arthur C. Clarke (screenplay)",
+      "Actors": "Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter",
+      "Plot": "Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+      "Language": "English, Russian",
+      "Country": "UK, USA",
+      "Awards": "Won 1 Oscar. Another 13 wins & 8 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "8.3",
+      "imdbVotes": "462,767",
+      "imdbID": "tt0062622",
+      "Type": "movie",
+      "DVD": "25 Aug 1998",
+      "BoxOffice": "$135,620",
+      "Production": "Warner Bros. Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 3,
+      "Title": "A Passage to India",
+      "Year": "1984",
+      "Rated": "PG",
+      "Released": "01 Feb 1985",
+      "Runtime": "164 min",
+      "Genre": "Adventure, Drama, History",
+      "Director": "David Lean",
+      "Writer": "E.M. Forster (by), E.M. Forster (based on the novel by), Santha Rama Rau (and the play by), David Lean (screenplay)",
+      "Actors": "Judy Davis, Victor Banerjee, Peggy Ashcroft, James Fox",
+      "Plot": "Cultural mistrust and false accusations doom a friendship in British colonial India between an Indian doctor, an Englishwoman engaged to marry a city magistrate, and an English educator.",
+      "Language": "English, Hindi",
+      "Country": "UK, USA",
+      "Awards": "Won 2 Oscars. Another 19 wins & 26 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MzMzMTUzMV5BMl5BanBnXkFtZTgwNzAzMDUxMDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "13,848",
+      "imdbID": "tt0087892",
+      "Type": "movie",
+      "DVD": "20 Mar 2001",
+      "BoxOffice": "N/A",
+      "Production": "Sony Pictures Entertainment",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  ]
+}
