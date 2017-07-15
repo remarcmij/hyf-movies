@@ -2,6 +2,170 @@
   "movies": [
     {
       "id": 1,
+      "Title": "Fight Club",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "15 Oct 1999",
+      "Runtime": "139 min",
+      "Genre": "Drama",
+      "Director": "David Fincher",
+      "Writer": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+      "Actors": "Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier",
+      "Plot": "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.",
+      "Language": "English",
+      "Country": "USA, Germany",
+      "Awards": "Nominated for 1 Oscar. Another 10 wins & 31 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "8.8",
+      "imdbVotes": "1,458,676",
+      "imdbID": "tt0137523",
+      "Type": "movie",
+      "DVD": "06 Jun 2000",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "http://www.foxmovies.com/fightclub/",
+      "Response": "True"
+    },
+    {
+      "id": 2,
+      "Title": "Into the Wild",
+      "Year": "2007",
+      "Rated": "R",
+      "Released": "19 Oct 2007",
+      "Runtime": "148 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Sean Penn",
+      "Writer": "Sean Penn (screenplay), Jon Krakauer (book)",
+      "Actors": "Emile Hirsch, Marcia Gay Harden, William Hurt, Jena Malone",
+      "Plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+      "Language": "English, Danish",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 23 wins & 99 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "8.1",
+      "imdbVotes": "461,312",
+      "imdbID": "tt0758758",
+      "Type": "movie",
+      "DVD": "04 Mar 2008",
+      "BoxOffice": "$18,173,360",
+      "Production": "Paramount Vantage",
+      "Website": "http://www.intothewild.com/",
+      "Response": "True"
+    },
+    {
+      "id": 3,
+      "Title": "The Hangover",
+      "Year": "2009",
+      "Rated": "R",
+      "Released": "05 Jun 2009",
+      "Runtime": "100 min",
+      "Genre": "Comedy",
+      "Director": "Todd Phillips",
+      "Writer": "Jon Lucas, Scott Moore",
+      "Actors": "Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha",
+      "Plot": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+      "Language": "English",
+      "Country": "USA, Germany",
+      "Awards": "Won 1 Golden Globe. Another 12 wins & 25 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MDA1MTYwMF5BMl5BanBnXkFtZTcwMDcxMzA1Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "7.8",
+      "imdbVotes": "614,380",
+      "imdbID": "tt1119646",
+      "Type": "movie",
+      "DVD": "15 Dec 2009",
+      "BoxOffice": "$277,313,371",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://hangovermovie.warnerbros.com/",
+      "Response": "True"
+    },
+    {
+      "id": 4,
+      "Title": "Django Unchained",
+      "Year": "2012",
+      "Rated": "R",
+      "Released": "25 Dec 2012",
+      "Runtime": "165 min",
+      "Genre": "Drama, Western",
+      "Director": "Quentin Tarantino",
+      "Writer": "Quentin Tarantino",
+      "Actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
+      "Plot": "With the help of a German bounty hunter , a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "Language": "English, German, French, Italian",
+      "Country": "USA",
+      "Awards": "Won 2 Oscars. Another 56 wins & 151 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "8.4",
+      "imdbVotes": "1,047,465",
+      "imdbID": "tt1853728",
+      "Type": "movie",
+      "DVD": "16 Apr 2013",
+      "BoxOffice": "$162,804,648",
+      "Production": "The Weinstein Co.",
+      "Website": "http://unchainedmovie.com/",
+      "Response": "True"
+    },
+    {
+      "id": 1000,
       "Title": "Planet of the Apes",
       "Year": "2001",
       "Rated": "PG-13",
@@ -42,7 +206,7 @@
       "Response": "True"
     },
     {
-      "id": 2,
+      "id": 1001,
       "Title": "2001: A Space Odyssey",
       "Year": "1968",
       "Rated": "G",
@@ -83,7 +247,7 @@
       "Response": "True"
     },
     {
-      "id": 3,
+      "id": 1002,
       "Title": "A Passage to India",
       "Year": "1984",
       "Rated": "PG",
@@ -120,7 +284,7 @@
       "Response": "True"
     },
     {
-      "id": 4,
+      "id": 1003,
       "Title": "Midnight in Paris",
       "Year": "2011",
       "Rated": "PG-13",
@@ -161,7 +325,7 @@
       "Response": "True"
     },
     {
-      "id": 5,
+      "id": 1004,
       "Title": "Annie Hall",
       "Year": "1977",
       "Rated": "PG",
@@ -198,7 +362,7 @@
       "Response": "True"
     },
     {
-      "id": 6,
+      "id": 1005,
       "Title": "Saving Private Ryan",
       "Year": "1998",
       "Rated": "R",
@@ -239,7 +403,7 @@
       "Response": "True"
     },
     {
-      "id": 7,
+      "id": 1006,
       "Title": "For Your Eyes Only",
       "Year": "1981",
       "Rated": "PG",
@@ -280,7 +444,7 @@
       "Response": "True"
     },
     {
-      "id": 8,
+      "id": 1007,
       "Title": "Lawrence of Arabia",
       "Year": "1962",
       "Rated": "PG",
@@ -320,5 +484,5 @@
       "Website": "N/A",
       "Response": "True"
     }
-  ]
+ ]
 }
