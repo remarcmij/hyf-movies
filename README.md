@@ -43,26 +43,17 @@ Note that the way we dynamically create DOM elements today is not they way you w
     npm start
     ```
 
-2. Start your browser and type the following in the address bar:
-
-    ```
-    http://localhost:3000/movies
-    ```
-
-    This is the JSON data that we will be working with in this hands-on.
-
-3. Open `index.html` and inspect it's contents.
-4. Open File Explorer (Windows) or equivalent on Mac or Linux and go to the `hyf-movies` folder.
-5. Double-click the `index.html` file to open it in the browser.
-6. Open Chrome Developer Tools (click on the three horizontal dots in the menu bar and select _More Tools_, _Developer Tools_).
-7. Refresh the page in Chrome.
-8. Switch to the network tab in Developer tools.
-9. Inspect the `movies` row. Note the `XHR` type.
-10. Click on `movies` row.
-11. Skim through the Headers.
-12. Select the Preview tab.
-13. Inspect the server response.
-14. Expand the first row. Inspect the JSON data.
-15. Start VSCode and open the `hyf-movies` folder.
+2. Open File Explorer (Windows) or equivalent on Mac or Linux and go to the `hyf-movies` folder.
+3. Double-click the `index.html` file to open it in the browser.
+4. Open Chrome Developer Tools (click on the three horizontal dots in the menu bar and select _More Tools_, _Developer Tools_).
+5. Refresh the page in Chrome.
+6. Switch to the network tab in Developer tools.
+7. Inspect the `movies` row. Note the `XHR` type.
+8. Click on `movies` row.
+9. Skim through the Headers.
+10. Select the Preview tab.
+11. Inspect the server response.
+12. Expand the first row. Inspect the JSON data.
+13. Start VSCode and open the `hyf-movies` folder.
 
 _Roll up your sleeves and let's start coding!_
