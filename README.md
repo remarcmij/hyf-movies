@@ -38,7 +38,7 @@ Note that the way we dynamically create DOM elements today is not they way you w
 
     ```
     cd <project folder>
-    git clone https://github/remarcmij/hyf-movies.git
+    git clone https://github.com/remarcmij/hyf-movies.git
     cd hyf-movies
     npm install
     npm start
