@@ -18,8 +18,9 @@ In what form we will display the information is not determined beforehand. We wi
 - See a **callback** in action
 - Try various forms of `for` loops and a `forEach`
 - Creating **DOM** (Document Object Model) elements in code
+- Some array functions, e.g. `slice()`, `filter()`, `sort()`
 - Restructure (_refactor_) our code as it get more complex
-- Get a peek at a related **Node** application
+- Get a peek at a **Node** application
 
 Note that the way we dynamically create DOM elements today is not they way you will do it in later modules. In the React course you will learn far more advanced ways of manipulating the DOM.
 
