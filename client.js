@@ -54,7 +54,7 @@
     li.appendChild(ul2);
 
     for (const attr of attributes) {
-      const text = attr + ": " + movie[attr]
+      const text = attr + ": " + movie[attr];
       renderAttribute(ul2, text);
     }
 

@@ -34,7 +34,7 @@ Note that the way we dynamically create DOM elements today is not they way you w
 
 ## Preparations
 
-1. Install the repo:
+1. Install the repo (replace `<project folder>` with the name of the folder where you keep of your HYF work. In this folder a `hyf-movies` subfolder will be created by the `git clone` command below):
 
     ```
     cd <project folder>
